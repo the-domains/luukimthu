@@ -1,7 +1,7 @@
 name: luukimthu
 favicon: null
-layout_spectrum: 0.6476357355713844
-typography_spectrum: 0.9536021212115884
+layout_spectrum: 0.6974676724057645
+typography_spectrum: 0.37821283657103777
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5505174505524337
-  lightness: 0.8962058816105127
-  saturation: 0.537529150955379
-  rhythmicContrast: 0.7567255890462548
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.21624472341500223
+  lightness: 0.7724188496358693
+  saturation: 0.7048487230204046
+  rhythmicContrast: 0.36924640042707324
 purpose: []
