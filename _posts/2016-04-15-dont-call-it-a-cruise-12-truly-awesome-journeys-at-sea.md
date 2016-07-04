@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-04T13:42:57.259Z'
+datePublished: '2016-07-04T13:43:31.397Z'
 sourcePath: _posts/2016-04-15-dont-call-it-a-cruise-12-truly-awesome-journeys-at-sea.md
 inFeed: true
 isBasedOnUrl: 'http://fathomaway.com/postcards/thrill/best-boat-cruises/'
@@ -10,7 +10,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-04T13:42:56.933Z'
+dateModified: '2016-07-04T13:43:31.305Z'
 title: 'Don''t Call It a Cruise: 12 Truly Awesome Journeys at Sea'
 app_links: []
 publisher:
